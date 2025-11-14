@@ -249,13 +249,6 @@ class HomeRepository {
                   "travelRequirements": {
                     "passportRequired": true,
                     "visaRequired": true,
-                    "documents": [
-                      "Valid Passport (6+ months validity)",
-                      "Schengen Visa",
-                      "Travel Insurance",
-                      "Return Flight Ticket",
-                      "Proof of Accommodation",
-                    ],
                     "minBalanceProof": "₹1,50,000 (recommended bank statement)",
                   },
                   "chitsScheme": [

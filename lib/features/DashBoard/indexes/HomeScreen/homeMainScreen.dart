@@ -3,6 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:smartrip/features/DashBoard/indexes/HomeScreen/CustomWidgets/mainHomeContents.dart'
     show HomeHeaderContent;
 import 'package:smartrip/features/DashBoard/indexes/HomeScreen/CustomWidgets/stackSearchContent.dart';
+import 'package:smartrip/Common/Notifications/notification_screen.dart';
 
 final toggleSearch = StateProvider.autoDispose<bool>((ref) => false);
 
