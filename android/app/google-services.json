@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095633211557",
+    "project_id": "bicycle2023-12b80",
+    "storage_bucket": "bicycle2023-12b80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095633211557:android:e079a863ceb7c544a8bd4c",
+        "android_client_info": {
+          "package_name": "com.example.smartrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMHe6Ij5Xnju1OavrKERqDkQvlCww81v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
